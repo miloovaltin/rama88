@@ -1,16 +1,16 @@
 {
-"name": "rama88",
-"theme": "rama88",
-"version": "1.8.4",
-"description": "rama88 ทางเข้าหลักเว็บไซต์คาสิโนเว็บตรง ระบบออโต้ รับเครดิตฟรี",
-"keywords": [
-"rama88",
-"rama88 เครดิตฟรี",
-"rama88 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/rama88",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "rama88",
+  "theme": "rama88",
+  "version": "1.9.0",
+  "description": "rama88 ทางเข้าหลักเว็บไซต์คาสิโนเว็บตรง ระบบออโต้ รับเครดิตฟรี",
+  "keywords": [
+    "rama88",
+    "rama88 เครดิตฟรี",
+    "rama88 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/rama88",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
